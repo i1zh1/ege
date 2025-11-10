@@ -1,6 +1,6 @@
 #ПРИМЕР
 
-with open('17_example.txt') as f:
+with open('17/17_example.txt') as f:
     numbers = list(map(int, f.readlines()))
 
 count = 0
